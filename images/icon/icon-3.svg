@@ -1,0 +1,34 @@
+<svg width="44" height="44" viewBox="0 0 84 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>basic_webpage_multiple</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 -4758 416)">
+<g id="basic_webpage_multiple">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(2380 -201.859)" fill="#2F80ED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(2386.43 -207)" fill="#2F80ED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(2380 -196.718)" fill="#2F80ED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="translate(2383.21 -199.289)" fill="#2F80ED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="translate(2388.36 -199.289)" fill="#2F80ED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="translate(2393.5 -199.289)" fill="#2F80ED"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 0L 0 -0.64275L -0.64275 -0.64275L -0.64275 0L 0 0ZM 34.7163 0L 35.3591 0L 35.3591 -0.64275L 34.7163 -0.64275L 34.7163 0ZM 34.7163 26.9894L 34.7163 27.6321L 35.3591 27.6321L 35.3591 26.9894L 34.7163 26.9894ZM 0 26.9894L -0.64275 26.9894L -0.64275 27.6321L 0 27.6321L 0 26.9894ZM 0 0.64275L 34.7163 0.64275L 34.7163 -0.64275L 0 -0.64275L 0 0.64275ZM 34.0736 0L 34.0736 26.9894L 35.3591 26.9894L 35.3591 0L 34.0736 0ZM 34.7163 26.3466L 0 26.3466L 0 27.6321L 34.7163 27.6321L 34.7163 26.3466ZM 0.64275 26.9894L 0.64275 0L -0.64275 0L -0.64275 26.9894L 0.64275 26.9894Z"/>
+<path id="path1_stroke" d="M 0 0L 0 -0.64275L -0.64275 -0.64275L -0.64275 0L 0 0ZM 33.4306 0L 34.0733 0L 34.0733 -0.64275L 33.4306 -0.64275L 33.4306 0ZM 33.4306 27.632L 33.4306 28.2747L 34.0733 28.2747L 34.0733 27.632L 33.4306 27.632ZM 0.64275 3.21302L 0.64275 0L -0.64275 0L -0.64275 3.21302L 0.64275 3.21302ZM 0 0.64275L 33.4306 0.64275L 33.4306 -0.64275L 0 -0.64275L 0 0.64275ZM 32.7878 0L 32.7878 27.632L 34.0733 27.632L 34.0733 0L 32.7878 0ZM 33.4306 26.9892L 30.2161 26.9892L 30.2161 28.2747L 33.4306 28.2747L 33.4306 26.9892Z"/>
+<path id="path2_stroke" d="M 0 0.64275L 34.7163 0.64275L 34.7163 -0.64275L 0 -0.64275L 0 0.64275Z"/>
+<path id="path3_stroke" d="M 2.57158 -0.64275L 0 -0.64275L 0 0.64275L 2.57158 0.64275L 2.57158 -0.64275Z"/>
+</defs>
+</svg>

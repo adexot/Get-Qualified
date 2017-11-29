@@ -1,0 +1,41 @@
+<svg width="40" height="50" viewBox="0 0 72 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>basic_mixer2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 -3932 424)">
+<g id="basic_mixer2">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(1970.86 -199.79)" fill="#F2994A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(1996.57 -212)" fill="#F2994A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(1983.72 -187.581)" fill="#F2994A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(1983.72 -212)" fill="#F2994A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(1967 -207.502)" fill="#F2994A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(1992.72 -183.083)" fill="#F2994A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(1979.86 -195.292)" fill="#F2994A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="translate(1970.86 -212)" fill="#F2994A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="translate(1996.57 -175.372)" fill="#F2994A"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M -0.64275 0L -0.64275 28.9172L 0.64275 28.9172L 0.64275 0L -0.64275 0Z"/>
+<path id="path1_stroke" d="M -0.64275 0L -0.64275 16.7077L 0.64275 16.7077L 0.64275 0L -0.64275 0Z"/>
+<path id="path2_stroke" d="M 7.07199 3.85563C 7.07199 5.62977 5.63303 7.0685 3.85737 7.0685L 3.85737 8.354C 6.34245 8.354 8.35749 6.34028 8.35749 3.85563L 7.07199 3.85563ZM 3.85737 7.0685C 2.08171 7.0685 0.64275 5.62977 0.64275 3.85563L -0.64275 3.85563C -0.64275 6.34028 1.3723 8.354 3.85737 8.354L 3.85737 7.0685ZM 0.64275 3.85563C 0.64275 2.08148 2.08171 0.64275 3.85737 0.64275L 3.85737 -0.64275C 1.3723 -0.64275 -0.64275 1.37097 -0.64275 3.85563L 0.64275 3.85563ZM 3.85737 0.64275C 5.63303 0.64275 7.07199 2.08148 7.07199 3.85563L 8.35749 3.85563C 8.35749 1.37097 6.34245 -0.64275 3.85737 -0.64275L 3.85737 0.64275Z"/>
+<path id="path3_stroke" d="M -0.64275 0L -0.64275 4.49823L 0.64275 4.49823L 0.64275 0L -0.64275 0Z"/>
+</defs>
+</svg>
