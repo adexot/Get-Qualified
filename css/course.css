@@ -1,11 +1,11 @@
 /* generic styles */
 * {
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
   }
   
   body {
-    margin: 0px;
-    padding: 0px;
     font-family: 'Montserrat', sans-serif;
     color: #102964;
     overflow-x: hidden;
@@ -360,10 +360,11 @@
       height: 50px;
   }
   
+  
   /* filter style */
   .filter{
-      display: relative;
-     margin-top: 20px;
+    position: relative;
+    margin-top: 20px;
   }
   .filter .container{
     position: relative;
@@ -388,7 +389,6 @@
   .filter select{
       border: 1px solid #3ecf8e;
   }
-
   /* course-list */
   .course-list{
       margin-top: 20px;
@@ -436,7 +436,17 @@
   }
 
   /* pagination style */
-  .pagination ul li{
+  .pagination{
+    position: relative;
+    display: block;
+    width: 100%;
+  }
+  .pagination-list{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .pagination-list-item{
     list-style: none;
     display: inline-block;
     width: 40px;
@@ -447,13 +457,13 @@
     color: #828282;
   }
 
-  .pagination ul li.active{
+  .pagination-list-item.active{
     border-radius: 50%;
     background-color: #3ecf8e;
     color: #fff;
   }
 
-  .pagination ul li:hover{
+  .pagination-list-item:hover{
     width: 40px;
     height: 40px;
     border-radius: 50%;
