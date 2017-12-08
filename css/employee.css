@@ -8,6 +8,7 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
     color: #4f4f4f;
     overflow-x: hidden;
     letter-spacing: 1px;
@@ -30,6 +31,9 @@ a:hover {
 .drop-shadow{
     box-shadow: 1px 1px 3px 1px rgba(0,0,0, 0.2);
 }
+.margin-top-10{
+    margin-top: 10px;
+}
 .margin-top-20{
     margin-top: 20px;
 }
@@ -38,6 +42,13 @@ a:hover {
 }
 .margin-top-100{
     margin-top: 100px;
+}
+.padding-top-100{
+    padding-top: 100px;
+}
+.padding-l-r-10{
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .text-center{
     text-align: center;
@@ -68,12 +79,22 @@ a:hover {
 }
 header{
     font-size: 1em;
+    font-weight: 400;
 }
 .float-right{
     float: right;
     margin-right: 20px;
   }
-
+input::-moz-placeholder,
+input::-webkit-input-placeholder,
+input::placeholder{
+    color: #828282;
+}
+.sub-text{
+    font-size: 18px;
+    font-weight: 300;
+    color: #4f4f4f;
+}
 /* top style */
 .top{
     position: relative;
@@ -124,8 +145,11 @@ display: inline-block;
 padding: 0px 25px;
 text-decoration: none;
 color: #fff;
+font-size: 14px;
 }
-
+.auth-link{
+    font-weight: 400;
+}
 .top-header{
     position: relative;
     width: 50%;
@@ -144,7 +168,8 @@ color: #fff;
     margin-bottom: 0;
     width: 350px;
     height: 50px;
-    background-color: #f2f2f2;  
+    background-color: #f2f2f2; 
+    color: #828282; 
   }
   .top-form button{
       float: right;
@@ -332,7 +357,8 @@ color: #fff;
     margin-bottom: 0;
     width: 350px;
     height: 50px;
-    background-color: #f2f2f2;  
+    background-color: #f2f2f2; 
+    color: #828282;  
   }
   .course-top-form button{
       float: right;
@@ -449,7 +475,7 @@ color: #fff;
     padding: 20px 20px;
     border-radius: 8px;
     font-size: 0.8em;
-    height: 200px;
+    height: 220px;
 }
 .feature-box-circle{
     position: absolute;
@@ -464,6 +490,14 @@ color: #fff;
     background-color: rgba(56,99,160,1);
     z-index: -1;
 }
+.feature-heading{
+    font-size: 1.5em;
+    font-weight: 400;
+}
+.feature-heading-2{
+    font-size: 1.3em;
+    font-weight: 400;
+}
 @media(max-width: 500px){
     .feature-box{
         margin-top: 50px;
@@ -472,7 +506,7 @@ color: #fff;
 .courses{
     position: relative;
     display: block;
-    padding: 100px 0;
+    padding: 50px 0;
     z-index: -1;
 }
 
@@ -513,6 +547,8 @@ color: #fff;
     padding: 20px;
     background-color: #fff;
     font-size: 0.8em;
+    color: #828282;
+    font-weight: 300;
 }
 .profession{
     position: absolute;
@@ -520,6 +556,8 @@ color: #fff;
     padding: 5px 20px;
     background-color: #fff;
     box-shadow: 0 1px 3px rgba(0,0,0, 0.1);
+    color: #4f4f4f;
+    font-weight: 400;
 }
 .course-button{
     border-color: #3ecf8e;
@@ -662,7 +700,7 @@ footer hr{
     border-radius: 50%;
 }
 
-.bordered-image img{
+.center-img{
     display: block;
     position: absolute;
     top: 50%;
